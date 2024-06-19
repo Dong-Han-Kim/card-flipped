@@ -1,6 +1,7 @@
 {
 	"name": "card-turn",
 	"private": true,
+	"homepage": "https://dong-han-kim.github.io/card-flipped/",
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
